@@ -1,0 +1,4 @@
+fastapi==0.70.0
+uvicorn
+pymongo==3.9.0
+pytest
